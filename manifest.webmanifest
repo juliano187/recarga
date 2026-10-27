@@ -1,9 +1,9 @@
 {
-    "id": "https://juliano187.github.io/recarga/",
+    "id": "/recarga/",
     "name": "Recarga - Eppivioleta",
     "short_name": "Eppivioleta",
     "description": "Compre gift cards e recargas para apps de TV com entrega imediata.",
-    "start_url": "/",
+    "start_url": "/recarga/?source=pwa",
     "scope": "/",
     "display": "standalone",
     "background_color": "#06040f",
