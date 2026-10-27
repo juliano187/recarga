@@ -3,7 +3,7 @@
     "name": "Recarga - Eppivioleta",
     "short_name": "Eppivioleta",
     "description": "Compre gift cards e recargas para apps de TV com entrega imediata.",
-    "start_url": "/?source=pwa",
+    "start_url": "/",
     "scope": "/",
     "display": "standalone",
     "background_color": "#06040f",
