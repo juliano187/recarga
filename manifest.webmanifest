@@ -1,0 +1,28 @@
+{
+    "id": "https://www.recarregueja.com.br/",
+    "name": "Recarga - Eppivioleta",
+    "short_name": "Eppivioleta",
+    "description": "Compre gift cards e recargas para apps de TV com entrega imediata.",
+    "start_url": "/?source=pwa",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#06040f",
+    "theme_color": "#7b2ff7",
+    "lang": "pt-BR",
+    "dir": "ltr",
+    "categories": ["shopping", "entertainment"],
+    "icons": [
+        {
+            "src": "corrigir.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "corrigir.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
+}
